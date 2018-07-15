@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Office 365 RSS Subscriptions</title>
+    </head>
+    <body>
+        <outline text="Microsoft Official" title="Microsoft Official">
+            <outline type="rss" text="Terry Zink's Anti-malware Blog" title="Terry Zink's Anti-malware Blog" xmlUrl="http://blogs.msdn.com/tzink/rss.xml" htmlUrl="https://blogs.msdn.microsoft.com/tzink"/>
+            <outline type="rss" text="Office Updates" title="Office Updates" xmlUrl="http://blogs.technet.com/b/office_sustained_engineering/rss.aspx" htmlUrl="https://blogs.technet.microsoft.com/office_sustained_engineering"/>
+            <outline type="rss" text="Securing Office 365" title="Securing Office 365" xmlUrl="https://blogs.technet.microsoft.com/office365security/feed/" htmlUrl="https://blogs.technet.microsoft.com/office365security"/>
+            <outline type="rss" text="Microsoft Intune – Enterprise Mobility + Security" title="Microsoft Intune – Enterprise Mobility + Security" xmlUrl="http://blogs.technet.com/b/microsoftintune/rss.aspx" htmlUrl="https://cloudblogs.microsoft.com/enterprisemobility"/>
+            <outline type="rss" text="Planner Blog articles" title="Planner Blog articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=PlannerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/Planner-Blog/bg-p/PlannerBlog"/>
+            <outline type="rss" text="Enterprise Mobility + Security" title="Enterprise Mobility + Security" xmlUrl="http://blogs.technet.com/b/ad/privaterss.aspx" htmlUrl="https://cloudblogs.microsoft.com/enterprisemobility"/>
+            <outline type="rss" text="Office 365 Business Apps Blog articles" title="Office 365 Business Apps Blog articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Office365BusinessAppsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/Office-365-Business-Apps-Blog/bg-p/Office365BusinessAppsBlog"/>
+            <outline type="rss" text="Microsoft 365 Blog" title="Microsoft 365 Blog" xmlUrl="http://blogs.msdn.com/excel/rss.xml" htmlUrl="https://officeblogs.wpengine.com/en-us"/>
+            <outline type="rss" text="Brian Smith's Microsoft Planner and Project Support Blog" title="Brian Smith's Microsoft Planner and Project Support Blog" xmlUrl="http://blogs.msdn.com/brismith/rss.xml" htmlUrl="https://blogs.msdn.microsoft.com/brismith"/>
+            <outline type="rss" text="Tip of the Day" title="Tip of the Day" xmlUrl="http://blogs.technet.com/b/tip_of_the_day/rss.aspx" htmlUrl="https://blogs.technet.microsoft.com/tip_of_the_day"/>
+            <outline type="rss" text="Security, Privacy and Compliance Blog articles" title="Security, Privacy and Compliance Blog articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=securityprivacycompliance" htmlUrl="https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/bg-p/securityprivacycompliance"/>
+            <outline type="rss" text="Microsoft Secure" title="Microsoft Secure" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://cloudblogs.microsoft.com/microsoftsecure"/>
+        </outline>
+        <outline text="Microsoft Azure Official" title="Microsoft Azure Official">
+            <outline type="rss" text="Microsoft Azure Security and Compliance" title="Microsoft Azure Security and Compliance" xmlUrl="https://blogs.msdn.microsoft.com/azuresecurity/feed/" htmlUrl="https://blogs.msdn.microsoft.com/azuresecurity"/>
+            <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="https://azure.microsoft.com/en-gb/blog/feed/" htmlUrl="https://azure.microsoft.com/blog/"/>
+        </outline>
+        <outline text="Office 365 and MS Cloud" title="Office 365 and MS Cloud">
+            <outline type="rss" text="Office 365 Tip of the Day" title="Office 365 Tip of the Day" xmlUrl="http://office365tipoftheday.com/feed/" htmlUrl="https://office365tipoftheday.com"/>
+            <outline type="rss" text="Kloud Blog" title="Kloud Blog" xmlUrl="http://blog.kloud.com.au/feed/" htmlUrl="https://blog.kloud.com.au"/>
+        </outline>
+        <outline text="Change Detection" title="Change Detection">
+            <outline type="rss" text="Office 365 Roadmap Watcher" title="Office 365 Roadmap Watcher" xmlUrl="http://feeds.feedburner.com/Office365RoadmapWatcher" htmlUrl="http://feeds.feedburner.com/Office365RoadmapWatcher"/>
+        </outline>
+        <outline text="Exchange/O365 MVPs/Blogs" title="Exchange/O365 MVPs/Blogs">
+            <outline type="rss" text="Practical 365" title="Practical 365" xmlUrl="https://practical365/feed/" htmlUrl="https://practical365.com"/>            
+            <outline type="rss" text="No One Uses Email Anymore" title="No One Uses Email Anymore" xmlUrl="http://no-one-uses-email-anymore.com/feed/" htmlUrl="http://no-one-uses-email-anymore.com"/>
+            <outline type="rss" text="The EXPTA {blog}" title="The EXPTA {blog}" xmlUrl="http://www.expta.com/feeds/posts/default" htmlUrl="http://www.expta.com/"/>
+            <outline type="rss" text="Chris's Blog" title="Chris's Blog" xmlUrl="http://www.cgoosen.com/feed/" htmlUrl="https://www.cgoosen.com"/>
+            <outline type="rss" text="Solutions Engine Blog" title="Solutions Engine Blog" xmlUrl="http://www.enowconsulting.com/ese/rss.xml" htmlUrl="http://www.enowsoftware.com/solutions-engine"/>
+            <outline type="rss" text="C7 Solutions » Feed" title="C7 Solutions » Feed" xmlUrl="https://c7solutions.com/feed" htmlUrl="https://c7solutions.com"/>
+            <outline type="rss" text="Glen's Exchange and Office 365 Dev Blog" title="Glen's Exchange and Office 365 Dev Blog" xmlUrl="http://gsexdev.blogspot.com/feeds/posts/default" htmlUrl="https://gsexdev.blogspot.com/"/>
+            <outline type="rss" text="Tony Redmond – Petri" title="Tony Redmond – Petri" xmlUrl="https://www.petri.com/author/tony-redmond/feed" htmlUrl="https://www.petri.com"/>
+            <outline type="rss" text="Troubleshooting Exchange" title="Troubleshooting Exchange" xmlUrl="http://exchangemaster.wordpress.com/feed/" htmlUrl="https://exchangemaster.wordpress.com"/>
+            <outline type="rss" text="Thoughtsofanidlemind's Blog" title="Thoughtsofanidlemind's Blog" xmlUrl="http://thoughtsofanidlemind.wordpress.com/feed/" htmlUrl="https://thoughtsofanidlemind.com"/>
+            <outline type="rss" text="Vasil Michev" title="Vasil Michev" xmlUrl="http://www.michev.info/feed" htmlUrl="https://www.michev.info"/>
+            <outline type="rss" text="JaapWesselius.com" title="JaapWesselius.com" xmlUrl="http://www.jaapwesselius.com/feed/" htmlUrl="https://jaapwesselius.com"/>
+            <outline type="rss" text="Dave Stork's IMHO" title="Dave Stork's IMHO" xmlUrl="http://blogs.dirteam.com/blogs/davestork/rss.aspx" htmlUrl="https://dirteam.com/dave"/>
+            <outline type="rss" text="Michael Van Horenbeeck" title="Michael Van Horenbeeck" xmlUrl="http://michaelvh.wordpress.com/feed/" htmlUrl="https://vanhybrid.com"/>
+            <outline type="rss" text="Is this thing on?" title="Is this thing on?" xmlUrl="http://blogs.technet.com/scottschnoll/rss.xml" htmlUrl="https://blogs.technet.microsoft.com/scottschnoll"/>
+            <outline type="rss" text="EighTwOne (821)" title="EighTwOne (821)" xmlUrl="http://eightwone.com/feed/" htmlUrl="https://eightwone.com"/>
+            <outline type="rss" text="You Had Me At EHLO..." title="You Had Me At EHLO..." xmlUrl="http://msexchangeteam.com/rss.aspx" htmlUrl="https://blogs.technet.microsoft.com/exchange"/>
+            <outline type="rss" text="Steve Goodman's Exchange Blog" title="Steve Goodman's Exchange Blog" xmlUrl="http://www.stevieg.org/feed/" htmlUrl="https://www.allabout365.com"/>
+            <outline type="rss" text="o365info.com" title="o365info.com" xmlUrl="http://o365info.com/feed/" htmlUrl="https://o365info.com"/>
+            <outline type="rss" text="A bit of Exchange &amp; Office 365" title="A bit of Exchange &amp; Office 365" xmlUrl="http://ashdrewness.wordpress.com/feed/" htmlUrl="https://ashdrewness.wordpress.com"/>
+        </outline>
+    </body>
+</opml>
